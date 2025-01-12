@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sample Script 1",
+        "script": "console.log('Hello, World!');",
+        "created_by": "Alice"
+    },
+    {
+        "name": "Sample Script 2",
+        "script": "function greet() { alert('Welcome!'); }",
+        "created_by": "Bob"
+    },
+    {
+        "name": "Test Automation Script",
+        "script": "document.querySelector('#submit').click();",
+        "created_by": "Charlie"
+    }
+]
